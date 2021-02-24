@@ -1,3 +1,5 @@
+mod vulkano_confirmation;
+
 fn main() {
-    println!("Hello, world!");
+  vulkano_confirmation::vulkano_display();
 }
